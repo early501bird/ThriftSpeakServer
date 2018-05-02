@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftSpeakServer", "ThriftSpeakServer\ThriftSpeakServer.csproj", "{97956853-5CB9-4ABD-A91A-3D43FAA63FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftSpeakClient", "ThriftSpeakClient\ThriftSpeakClient.csproj", "{51A553A7-3090-49C0-A897-A74F6B3B7C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97956853-5CB9-4ABD-A91A-3D43FAA63FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97956853-5CB9-4ABD-A91A-3D43FAA63FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97956853-5CB9-4ABD-A91A-3D43FAA63FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97956853-5CB9-4ABD-A91A-3D43FAA63FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A553A7-3090-49C0-A897-A74F6B3B7C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A553A7-3090-49C0-A897-A74F6B3B7C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A553A7-3090-49C0-A897-A74F6B3B7C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A553A7-3090-49C0-A897-A74F6B3B7C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
